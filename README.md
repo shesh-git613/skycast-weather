@@ -8,7 +8,7 @@ A simple, fast weather forecasting application.
 
 ## 🚀 How to Run Locally
 
-Since this is a simple HTML project, you can run it directly without installing complex tools:
+This is a simple HTML project, which is why you can run it directly without installing complex tools:
 
 ### Option 1: Open Directly in Browser
 1. Download or clone this repository to your computer.
@@ -20,6 +20,15 @@ If you have Node.js installed, open your terminal inside the project folder and 
 ```bash
 npx serve .
 
+### Option 3: Run via Python 3
+
+If Python 3 is installed on your computer, you can run the project using Python's built-in local server.
+
+1. Open Terminal inside the project folder.
+2. Run:
+
+```bash
+python3 -m http.server
  
 
 
