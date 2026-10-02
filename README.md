@@ -19,6 +19,7 @@ If you have Node.js installed, open your terminal inside the project folder and 
 
 ```bash
 npx serve .
+```
 
 ### Option 3: Run via Python 3
 
