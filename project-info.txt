@@ -1,1 +1,2 @@
 SkyCast Weather Forecasting System
+Git practice completed
